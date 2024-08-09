@@ -2,4 +2,5 @@
 #nginx
 #mysql:8.2.0
 #mysql:5.7
-centos
+#centos
+redis
