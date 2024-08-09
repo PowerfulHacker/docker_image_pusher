@@ -5,6 +5,5 @@
 #centos
 #redis
 #ubuntu
-apache
-#httpd
+httpd
 
