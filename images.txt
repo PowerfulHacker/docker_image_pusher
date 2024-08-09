@@ -3,4 +3,5 @@
 #mysql:8.2.0
 #mysql:5.7
 #centos
-redis
+#redis
+ubuntu
