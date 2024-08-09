@@ -4,4 +4,7 @@
 #mysql:5.7
 #centos
 #redis
-ubuntu
+#ubuntu
+apache
+#httpd
+
