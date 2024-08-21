@@ -7,4 +7,4 @@
 #ubuntu
 #httpd
 #iwebsec/iwebsec
-ju5ton1y/redis
+#ju5ton1y/redis #Redis未授权访问漏洞
