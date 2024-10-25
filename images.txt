@@ -9,5 +9,6 @@
 #iwebsec/iwebsec
 #ju5ton1y/redis #Redis未授权访问漏洞
 ju5ton1y/websecurity
-zmister/mrdoc
-
+#zmister/mrdoc ,未指定版本，会默认 latest 
+# Docker 在尝试拉取 zmister/mrdoc:latest  镜像时，无法找到 latest 标签的镜像,就会报错
+zmister/mrdoc:v8
