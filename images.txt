@@ -12,4 +12,6 @@ ju5ton1y/websecurity
 #zmister/mrdoc ,未指定版本，会默认 latest 
 # Docker 在尝试拉取 zmister/mrdoc:latest  镜像时，无法找到 latest 标签的镜像,就会报错
 #zmister/mrdoc:v8
-dpanel/dpanel:lite
+#dpanel/dpanel:lite
+javanile/lamp
+tomcat:10.1.33-jre21-temurin-jammy
