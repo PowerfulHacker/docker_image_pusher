@@ -17,4 +17,4 @@ ju5ton1y/websecurity
 #tomcat:10.1.33-jre21-temurin-jammy
 #openjdk
 #dockurr/windows
-mcr.microsoft.com/mssql/server
+mcr.microsoft.com/mssql/server:2022-latest
