@@ -18,4 +18,5 @@ ju5ton1y/websecurity
 #openjdk
 #dockurr/windows
 #mcr.microsoft.com/mssql/server:2022-latest
-neosmemo/memos:latest
+#neosmemo/memos:latest
+kasmweb/core-ubuntu-jammy:develop
