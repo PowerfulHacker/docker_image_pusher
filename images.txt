@@ -19,4 +19,5 @@ ju5ton1y/websecurity
 #dockurr/windows
 #mcr.microsoft.com/mssql/server:2022-latest
 #neosmemo/memos:latest
-kasmweb/core-ubuntu-jammy:develop
+#kasmweb/core-ubuntu-jammy:develop
+lscr.io/linuxserver/kasm:lates
