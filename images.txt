@@ -20,4 +20,4 @@ ju5ton1y/websecurity
 #mcr.microsoft.com/mssql/server:2022-latest
 #neosmemo/memos:latest
 #kasmweb/core-ubuntu-jammy:develop
-lscr.io/linuxserver/kasm:lates
+lscr.io/linuxserver/kasm:latestt
