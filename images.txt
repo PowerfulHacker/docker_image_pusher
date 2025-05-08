@@ -21,4 +21,5 @@ ju5ton1y/websecurity
 #neosmemo/memos:latest
 #kasmweb/core-ubuntu-jammy:develop
 #lscr.io/linuxserver/kasm:latest
-ubuntu:22.04
+#ubuntu:22.04
+dockurr/windows
