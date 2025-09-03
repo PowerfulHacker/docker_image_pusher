@@ -23,4 +23,5 @@ ju5ton1y/websecurity
 #lscr.io/linuxserver/kasm:latest
 #ubuntu:22.04
 #dockurr/windows
-gitlab/gitlab-ee:16.11.4-ee.0
+#gitlab/gitlab-ee:16.11.4-ee.0
+seafileltd/elasticsearch-with-ik:5.6.16
